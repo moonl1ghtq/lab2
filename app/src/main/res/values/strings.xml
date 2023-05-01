@@ -1,0 +1,8 @@
+<resources>
+   <string name="main_text1">main_text1</string>
+    <string name="app_name">lab_2</string>
+    <string name="item1">a</string>
+    <string name="item2">b</string>
+    <string name="item3">c</string>
+
+</resources>
